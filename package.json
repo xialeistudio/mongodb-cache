@@ -1,0 +1,37 @@
+{
+  "name": "mongodb-cache",
+  "version": "1.0.0",
+  "description": "a nodejs cache module based on mongodb",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xialeistudio/mongodb-cache.git"
+  },
+  "keywords": [
+    "cache",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": [
+    {
+      "name": "xialeistudio",
+      "email": "xialeistudio@gmail.com",
+      "url": "http://github.com/xialeistudio"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xialeistudio/mongodb-cache/issues"
+  },
+  "homepage": "https://github.com/xialeistudio/mongodb-cache",
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "crypto": "0.0.3",
+    "mongoose": "^4.1.2",
+    "should": "^7.0.3"
+  }
+}
