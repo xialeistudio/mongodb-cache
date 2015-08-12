@@ -1,5 +1,5 @@
 {
-  "name": "mongodb-cache",
+  "name": "xl-mongodb-cache",
   "version": "1.0.0",
   "description": "a nodejs cache module based on mongodb",
   "main": "index.js",
